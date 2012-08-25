@@ -38,4 +38,8 @@ Then move the script to the "init" script directory and add then add the script 
 Being that this is an INIT script you can always call it from the command line. The basic functions are :
   start | force-reload | restart
 
+--------
+
+Drop me a line if you have any questions. 
+
 
